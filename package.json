@@ -1,0 +1,26 @@
+{
+  "name": "args",
+  "version": "1.0.0",
+  "description": "tdd 练习项目 args",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuixiaorui/args.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuixiaorui/args/issues"
+  },
+  "homepage": "https://github.com/cuixiaorui/args#readme",
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0"
+  }
+}
