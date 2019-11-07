@@ -2,7 +2,7 @@
   "name": "args",
   "version": "1.0.0",
   "description": "tdd 练习项目 args",
-  "main": "index.js",
+  "main": "Args.js",
   "scripts": {
     "test": "jest --watch"
   },
